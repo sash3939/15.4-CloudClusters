@@ -30,10 +30,10 @@
 - репликацию с произвольным временем технического обслуживания:
 <img width="137" alt="replication" src="https://github.com/user-attachments/assets/193f2ae2-3c9d-4a29-9f10-8e24bf49da55" />
 
--время начала резервного копирования:
+- время начала резервного копирования:
 <img width="139" alt="start backup" src="https://github.com/user-attachments/assets/2b262f21-7c45-4ab3-9b51-e9895f01bea0" />
 
--защита от случайного удаления:
+- защита от случайного удаления:
 <img width="314" alt="protection" src="https://github.com/user-attachments/assets/ad5ed96b-a005-46d8-a47a-5b4ce206e0f0" />
 
 Создадим БД с именем netology_db, логином и паролем:
