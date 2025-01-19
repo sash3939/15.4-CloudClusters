@@ -42,7 +42,9 @@
 
 <img width="791" alt="bd1" src="https://github.com/user-attachments/assets/dd7b25d4-19e0-46fb-be02-f0ddb9622569" />
 
-Подключаемся к БД
+
+- Подключаемся к БД
+
 <img width="587" alt="Connect to db" src="https://github.com/user-attachments/assets/a7909801-c043-46d5-8221-974f69330c56" />
 
 <img width="337" alt="Select" src="https://github.com/user-attachments/assets/d1cfc0a2-3e9a-4398-a0c2-196dcaa9945f" />
